@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2016.2 (64-bit)
+# SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+# IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+# Start of session at: Fri May 28 15:38:45 2021
+# Process ID: 26332
+# Current directory: D:/yemaoyaoCPU/MIPS_0_to_54
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3288 D:\yemaoyaoCPU\MIPS_0_to_54\MIPS.xpr
+# Log file: D:/yemaoyaoCPU/MIPS_0_to_54/vivado.log
+# Journal file: D:/yemaoyaoCPU/MIPS_0_to_54\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/yemaoyaoCPU/MIPS_0_to_54/MIPS.xpr
+INFO: [Project 1-313] Project file moved from 'E:/Courses/ComputerComposition/MIPS_0_to_54/MIPS' since last save.
+ERROR: [Project 1-208] No val for DA Elab Attr
+Scanning sources...
+****** Webtalk v2016.2 (64-bit)
+  **** SW Build 1577090 on Thu Jun  2 16:32:40 MDT 2016
+  **** IP Build 1577682 on Fri Jun  3 12:00:54 MDT 2016
+    ** Copyright 1986-2016 Xilinx, Inc. All Rights Reserved.
+
+source D:/yemaoyaoCPU/MIPS_0_to_54/MIPS.hw/webtalk/labtool_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Fri May 28 15:39:03 2021...
+ERROR: [Common 17-70] Application Exception: SrcMgr::createSS : type not set
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri May 28 15:39:09 2021...
